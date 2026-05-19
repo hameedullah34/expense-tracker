@@ -2,7 +2,7 @@
 
 A dark-themed personal finance dashboard built with React, Vite, and Tailwind CSS. Track your spending, monitor savings, and sort transactions — all from a clean, minimal UI that remembers your data even after you close the tab.
 
-🔗 **Live Demo:** _(add Vercel link after deployment)_  
+🔗 **Live Demo:** [expense-tracker-gamma-sable-20.vercel.app](https://expense-tracker-gamma-sable-20.vercel.app)  
 📁 **GitHub:** [github.com/hameedullah34](https://github.com/hameedullah34)
 
 ---
