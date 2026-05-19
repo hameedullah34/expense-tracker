@@ -1,5 +1,5 @@
 import React, { useContext, useState } from "react";
-import { Display, Form, Summery } from "./Components";
+import { Display, Form, Summery } from "./Components/index.jsx";
 import {
 	BsBank2,
 	BsCurrencyDollar,
